@@ -10,3 +10,11 @@
 2.
 
 O(n<sup>2</sup>)
+
+3.
+
+Average Case: O(n<sup>2</sup>)
+Worst Case: O(n<sup>2</sup>)
+Best Case: O(n)
+
+4. Soruyu tam anlamadım. 
